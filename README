@@ -1,0 +1,18 @@
+# Antenna-Arrays-in-3D
+Produces radiation pattern for Broadside, Endfire, and Binomial antenna arrays in 3 dimensions
+
+Description	
+It is tool to produce radiation pattern for following antenna arrays in 3 dimensions: 
+1. Broadside 
+2. Endfire 
+3. Binomial
+
+Run .m file and enter the no. of elements and distance between elements to produce radiation pattern
+
+Maximizing figure window and using rotate tool might help to analyze radiation pattern in detail
+
+Optimization of code has been done as a matter of practice.
+
+Suggestions are highly encouraged.
+
+MATLAB release	MATLAB 7.10 (R2010a)
